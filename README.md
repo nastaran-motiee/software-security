@@ -1,2 +1,2 @@
-# software-security-hw1
+# software-security
 Buffer Overflow &amp; RSA 
